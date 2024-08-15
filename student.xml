@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<s:student xmlns:s= "http://www.fake1.com/student/">
+<s:first>dua</s:first>
+<s:last>javed</s:last>
+<s:title>student</s:title>
+</s:student>    

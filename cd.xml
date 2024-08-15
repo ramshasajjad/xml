@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<!DOCTYPE CATALOG [
+<ELEMENT CATALOG(CD+)>
+    <!ELEMENT CD(TITLE,ARTIST,COUNTRY,COMPANY,PRICE)>
+    <ELEMENT TITLE(#PCDATA)>
+    <ELEMENT ARTIST(#PCDATA)>
+    <ELEMENT COUNTRY(#PCDATA)>
+    <ELEMENT COMPANY(#PCDATA)>
+    <ELEMENT PRICE(#PCDATA)>
+    <ELEMENT YEAR(#PCDATA)>
+]>
+
+<CATALOG>
+    <CD>
+        <TITLE>empire burlesque</TITLE>
+        <ARTIST>bob dylan</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>columbie</COMPANY>
+        <PRICE>10.90</PRICE>
+        <YEAR>1988</YEAR>
+    </CD>

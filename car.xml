@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<Car>
+    <vehicle>
+        <manufacture>BMW</manufacture>
+        <model>M3</model>
+        <color>metallic</color>
+        <price>40,000</price>
+    </vehicle>
+    <vehicle>
+        <manufacture>toyota</manufacture>
+        <model>Altis</model>
+        <color>black</color>
+        <price>35,000</price>
+    </vehicle>
+</Car>    

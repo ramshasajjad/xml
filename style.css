@@ -1,0 +1,11 @@
+
+first,last,title{
+    color: brown;
+}
+student{
+   margin-top: 14px;
+   border: solid 2px black;
+   text-align: center;
+   background-color: rgb(187, 194, 194);
+   font-size: 34px;
+}
